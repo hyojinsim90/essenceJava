@@ -47,7 +47,7 @@ public class CalendarEx9 {
         if(month > 2 && isLeapYear(year))
             thisYearDaySum++;
         thisYearDaySum+=day;
-        System.out.println("thisYearDaySum : " + thisYearDaySum); thisYearDaySum : 151
+        System.out.println("thisYearDaySum : " + thisYearDaySum); // thisYearDaySum : 151
 
         return toLastYearDaySum+thisYearDaySum;
     }

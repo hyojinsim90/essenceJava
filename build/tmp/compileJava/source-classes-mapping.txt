@@ -12,3 +12,5 @@ ch10/CalendarEx8.java
  ch10.CalendarEx8
 ch10/CalendarEx9.java
  ch10.CalendarEx9
+ch10/DecimalFormatEx2.java
+ ch10.DecimalFormatEx2
