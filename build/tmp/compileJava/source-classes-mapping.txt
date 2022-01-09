@@ -8,3 +8,5 @@ ch10/CalendarEx2.java
  ch10.CalendarEx2
 ch10/CalendarEx7.java
  ch10.CalendarEx7
+ch10/CalendarEx8.java
+ ch10.CalendarEx8
