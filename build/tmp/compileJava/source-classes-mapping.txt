@@ -1,22 +1,26 @@
-ch10/CalendarEx4.java
- ch10.CalendarEx4
-ch10/CalendarEx1.java
- ch10.CalendarEx1
-ch10/CalendarEx5.java
- ch10.CalendarEx5
-ch10/CalendarEx2.java
- ch10.CalendarEx2
-ch10/CalendarEx7.java
- ch10.CalendarEx7
-ch10/CalendarEx8.java
- ch10.CalendarEx8
-ch10/CalendarEx9.java
- ch10.CalendarEx9
+ch10/dateFormat/DateFormatEx2.java
+ ch10.dateFormat.DateFormatEx2
+ch10/calendar/CalendarEx1.java
+ ch10.calendar.CalendarEx1
+ch10/calendar/CalendarEx8.java
+ ch10.calendar.CalendarEx8
+ch10/choiceFormat/ChoiceFormatEx1.java
+ ch10.choiceFormat.ChoiceFormatEx1
 ch10/DecimalFormatEx2.java
  ch10.DecimalFormatEx2
-ch10/DateFormatEx1.java
- ch10.DateFormatEx1
-ch10/DateFormatEx3.java
- ch10.DateFormatEx3
-ch10/DateFormatEx2.java
- ch10.DateFormatEx2
+ch10/calendar/CalendarEx2.java
+ ch10.calendar.CalendarEx2
+ch10/calendar/CalendarEx5.java
+ ch10.calendar.CalendarEx5
+ch10/calendar/CalendarEx9.java
+ ch10.calendar.CalendarEx9
+ch10/dateFormat/DateFormatEx1.java
+ ch10.dateFormat.DateFormatEx1
+ch10/choiceFormat/ChoiceFormatEx2.java
+ ch10.choiceFormat.ChoiceFormatEx2
+ch10/calendar/CalendarEx4.java
+ ch10.calendar.CalendarEx4
+ch10/calendar/CalendarEx7.java
+ ch10.calendar.CalendarEx7
+ch10/dateFormat/DateFormatEx3.java
+ ch10.dateFormat.DateFormatEx3

@@ -1,4 +1,4 @@
-package ch10;
+package ch10.dateFormat;
 
 import java.text.DateFormat;
 import java.text.ParseException;
